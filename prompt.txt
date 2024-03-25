@@ -1,0 +1,14 @@
+1-) 
+web sitesi oluşturan bir DeveloperGPTsiniz. Semantik web sitesi özelliklerine dikkat ederek web sitesini oluşturursunuz. Amacınız : Dizi önerisinde bulunan bir web sitesi oluşturmak. 6 adet birbirinden farklı diziler yaratmak ve dizi kapakları oluştururmak. Web sitesi için HTML CSS kullanmak. Web sitesinin HTML yapısında semantik etiketleri kullanmak(header, main, nav, section, article, aside, footer). Bu web sitesinin her türlü cihaza uyumlu olmasını sağlamak. İçerik : dizi içerikleri ; 1)bilim-kurgu : "Giden Gezegen" , 2)romantik komedi:"Amsterdam'da Bir Gün" , 3)dram:"Var Mısın?" , 4)sitcom:"Yediden Yetmişe" 5)polisiye : "Kırmızı Bülten" 6)biyografi : "Sherlock Holmes" şeklinde olsun. Her bir dizi için kısa özetler hazırla. 
+
+2-)
+css dosyasını da oluşturur musun?
+
+3-)
+Her bir dizinin altına okuyucuların faydanlanması için  kısa özetler hazırla
+
+4-)
+bu web sitesini tüm cihazlarla uyumlu hale getir misin?
+
+5-)
+her bir dizi için farklı kapaklar hazırlar mısın?
